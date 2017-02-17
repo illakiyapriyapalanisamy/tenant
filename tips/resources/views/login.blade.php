@@ -36,6 +36,7 @@
                                     </label>
                                 </div>
                             </div>
+			    </div>
                         </div>
 						<br/>
     <div class="col-sm-2 col-md-2 col-lg-2 col-lg-offset-5 col-md-offset-5 col-sm-offset-5 col-xs-offset-1  btn-lg-2">
